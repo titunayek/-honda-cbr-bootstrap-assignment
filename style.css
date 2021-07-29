@@ -1,0 +1,43 @@
+
+/* bg coustom  */
+.bg-color{
+   background-color: #476072;
+}
+/* btn coustom  */
+.btn{
+    color:white;
+    background-color: #FF7600;
+}
+
+
+
+/* font style  */
+.font-style{
+    color:#FF7600;
+   
+}
+/* start style  */
+.fa-star.filled{
+    color:#FF7600;
+}
+
+/* imgcercle */
+.imgcercle{
+    
+    clip-path: circle();
+}
+/* images-faq */
+.img-faq{
+    width: 80%;
+    height: 50%;
+}
+/* images grayscale */
+.img-gra{
+    filter: grayscale(1);
+}
+/* footer font styles */
+.footerfont{
+    height: 480px;
+    background-color: teal;
+}
+
